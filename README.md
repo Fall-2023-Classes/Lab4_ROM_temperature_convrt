@@ -1,5 +1,5 @@
 # Lab4_ROM_temperature_convrt
-Using 0.5+0.5 Block RAM to stored two memory blocks for Celcius and Farenheit conversion values. Range from 0~\100C, 32~\212F.
+Using 0.5+0.5 Block RAM to stored two memory blocks for Celcius and Farenheit conversion values. Range from 0~100C, 32~212F.
 
 [Lab 3 Files](https://github.com/Fall-2023-Classes/lab_3_early_debouncer/tree/main/Lab3Files)
 
