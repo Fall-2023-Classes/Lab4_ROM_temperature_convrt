@@ -23,7 +23,6 @@ The point of this lab is to minimize the amount of resources used on our FPGA bo
 
     
 ## ROM
-![image]()
 
 This lab uses a simple Read Only Memory module that is modified in a specific way to force Vivado to use the BRAM on the FPGA board instead of the LUTs. We use two of these modules to store the conversion values for Celsius and Fahrenheit temperatures. The Lookup Tables for these values ([truth_table_celsius.mem](https://github.com/Fall-2023-Classes/Lab4_ROM_temperature_convrt/blob/main/Lab4Files/Design/truth_table_celsius.mem) and [truth_table_fahrenheit.mem](https://github.com/Fall-2023-Classes/Lab4_ROM_temperature_convrt/blob/main/Lab4Files/Design/truth_table_fahrenheit.mem)) are manually created using Excel.
 
